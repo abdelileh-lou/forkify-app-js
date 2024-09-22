@@ -1,0 +1,17 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+
+# Build directories
+dist/
+build/
+
+# Environment variables
+.env
+
+# Package lock files (optional)
+package-lock.json
